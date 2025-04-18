@@ -1,0 +1,12 @@
+Newton's First Law states that an object remains at rest or in uniform motion unless acted upon by a force.
+The formula for force is F = ma, where F is force, m is mass, and a is acceleration.
+The acceleration due to gravity on Earth is approximately 9.8 m/s².
+The mass of an object is the amount of matter it contains, measured in kilograms (kg).
+Laws of Motion:
+- Newton's First Law: An object remains in rest or motion unless acted upon.
+- Newton's Second Law: F = ma.
+- Newton's Third Law: Every action has an equal and opposite reaction.
+
+Thermodynamics:
+- First Law: ΔU = Q - W
+- Second Law: Entropy of an isolated system never decreases.
